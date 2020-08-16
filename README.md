@@ -1,4 +1,5 @@
 # FDB_Linux_SAR_Analyzer
+link with more information about the tool: https://www.felipedonoso.cl/p/sar-anal.html
 
 Hi,
 
@@ -28,9 +29,6 @@ Here for example we have analysis for every Disks (with Pivot):
 Other example for network (every interface):
 
 
-
-Here you can download the last versión:
-https://drive.google.com/file/d/1_XMrxU3izAtTXc8txS_bt22eEX5CPCcV/view?usp=sharing
 
 Pls don't change the code VBA and don't change my copyright.
 My email for any comment: felipe.donoso@oracle.com and felipe@felipedonoso.cl
